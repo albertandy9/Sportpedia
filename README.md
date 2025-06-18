@@ -24,11 +24,11 @@ Sportpedia offers users an intuitive and dynamic shopping experience for sports 
 ## Getting Started 🚀
 To run the project locally:
 
-git clone https://github.com/albertandy9/Sportpedia.git
-cd Sportpedia
-npm install
-npm run dev
-Make sure you have Node.js and npm installed.
+- git clone https://github.com/albertandy9/Sportpedia.git
+- cd Sportpedia
+- npm install
+- npm run dev
+- Make sure you have Node.js and npm installed.
 
 ## Lessons Learned 🧠
 This was my first time using React.js, which pushed me to rapidly understand and apply concepts like:
@@ -44,6 +44,6 @@ This was my first time using React.js, which pushed me to rapidly understand and
 - Improve product filtering and search
 
 ## Screenshot
-![image1](imagess/SportMarketplace.png)
-![image2](imagess/SportMarketplace_2.png)
-![image3](imagess/SportMarketplace_3.png)
+![image1](images/SportMarketplace.png)
+![image2](images/SportMarketplace_2.png)
+![image3](images/SportMarketplace_3.png)
