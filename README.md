@@ -8,8 +8,6 @@ This project served as my personal learning journey into modern front-end develo
 
 Sportpedia offers users an intuitive and dynamic shopping experience for sports gear. Built with a focus on interactivity and performance, the site is optimized for speed using Vite and React Context API for global state management.
 
-One of the most challenging yet rewarding parts of this project was implementing the logic to ensure that selected items in the Basket were accurately reflected in the Checkout with correct quantities and pricing, giving me real world experience in dynamic rendering and component based development.
-
 ## Features 🎯
 - 🛍️ Interactive product listing and cart
 - 🧮 Quantity management and price calculation on the Checkout page
