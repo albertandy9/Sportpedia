@@ -11,11 +11,11 @@ Sportpedia offers users an intuitive and dynamic shopping experience for sports 
 One of the most challenging yet rewarding parts of this project was implementing the logic to ensure that selected items in the Basket were accurately reflected in the Checkout with correct quantities and pricing, giving me real world experience in dynamic rendering and component based development.
 
 ## Features 🎯
-🛍️ Interactive product listing and cart
-🧮 Quantity management and price calculation on the Checkout page
-⚡ Fast Refresh enabled via Vite + React
-📱 Fully responsive layout for mobile and desktop devices
-🧠 Clean codebase with ESLint rules for consistent styling
+- 🛍️ Interactive product listing and cart
+- 🧮 Quantity management and price calculation on the Checkout page
+- ⚡ Fast Refresh enabled via Vite + React
+- 📱 Fully responsive layout for mobile and desktop devices
+- 🧠 Clean codebase with ESLint rules for consistent styling
 
 ## Technologies Used 💻
 - React.js
